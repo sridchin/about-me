@@ -3,15 +3,18 @@ layout: default
 title: Home
 ---
 
-# Hi — I'm Durga
+# Hi — I'm Durga Chintalapudi
 
-Welcome to my personal site. I'm a software developer interested in web development, open source, and learning new technologies.
+I'm a Software Engineer at Visa with 7+ years of experience building and operating large scale systems, with a Master’s degree in Engineering focused on Artificial Intelligence. I work at the intersection of reliability engineering, observability, and applied AI.
 
-- 🔭 Currently working on: personal projects and portfolio
-- ✉️ Contact: add your email or social links here
+- 🔭 Currently working on: Observability Optimization Platform and Agentic AI systems
+- ✉️ Contact: [sridurga21296@gmail.com](mailto:sridurga21296@gmail.com)
+- 📍 Location: San Francisco Bay Area
 
-## Projects
+## Quick Links
+- [About Me](/about/)
+- [Projects](/projects/)
+- [GitHub](https://github.com/sridchin)
+- [LinkedIn](https://www.linkedin.com/in/durga-chintalapudi)
 
-Add short project descriptions or link to a `projects.md` page.
-
-Thanks for visiting — update this page with your bio, skills, and links.
+Thanks for visiting — check out my [about page](/about/) for more details on my experience and skills.
