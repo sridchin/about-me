@@ -13,6 +13,7 @@ I'm a Software Engineer at Visa with 7+ years of experience building and operati
 
 ## Quick Links
 - [About Me](/about/)
+- [Resume](/resume/)
 - [Projects](/projects/)
 - [GitHub](https://github.com/sridchin)
 - [LinkedIn](https://www.linkedin.com/in/durga-chintalapudi)
